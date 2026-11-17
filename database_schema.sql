@@ -11,7 +11,7 @@ CREATE DATABASE IF NOT EXISTS food_delivery_db
 
 USE food_delivery_db;
 
--- ─── USERS TABLE ─────────────────────────────────────────────
+
 CREATE TABLE IF NOT EXISTS users (
     id       BIGINT AUTO_INCREMENT PRIMARY KEY,
     name     VARCHAR(100)  NOT NULL,
