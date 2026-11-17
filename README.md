@@ -68,7 +68,9 @@ food-delivery/
 
 ---
 
+## 🚀 Setup Instructions
 
+### Step 1 — MySQL Database
 
 ```bash
 # Login to MySQL
